@@ -14,7 +14,7 @@ or
 yarn
 ```
 
-<p>Tahap selanjutnya adalah menjalankan aplikasi menggunakan perintah serve dan buka alamat url **http://localhost:8080/** untuk melihat aplikasi </p>
+Tahap selanjutnya adalah menjalankan aplikasi menggunakan perintah serve dan buka alamat url **http://localhost:8080/** untuk melihat aplikasi </p>
 
 ```
 npm run serve
